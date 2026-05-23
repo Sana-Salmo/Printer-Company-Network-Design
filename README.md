@@ -64,8 +64,8 @@ This project demonstrates the design and configuration of a company network usin
 
 ## Authors
 
-Esraa Basalamh  
-Sana Rahmani  
+Sana Rahmani 
+Esraa Basalamh   
 Rama Alkusair  
 
 Effat University – CS2091 Computer Networks
